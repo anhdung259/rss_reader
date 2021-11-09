@@ -1,16 +1,21 @@
-# rss_reader
+# rss_reader_project
 
-A new Flutter project.
+KMS test for Mobile Developer
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This application allows user to input a RSS url (eg: vnexpress/tinhte,...) and read the
+content.
+</br> Some picture of application
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+    
+    <img src="https://user-images.githubusercontent.com/57565173/140852799-04baf33d-e512-447d-a42a-af516169ca20.jpg" width="350" alt="accessibility text">  
+    <img src="https://user-images.githubusercontent.com/57565173/140854100-fb26941f-d1be-457e-9f57-b1fd10e1b7ec.jpg" width="350" alt="accessibility text">
+    <img src="https://user-images.githubusercontent.com/57565173/140854107-7d856178-dcdf-4076-aa0a-0b38a2f4297d.jpg" width="350" alt="accessibility text">
+    <img src="https://user-images.githubusercontent.com/57565173/140854110-61834f30-951c-4392-a99a-bf28128a6227.jpg" width="350" alt="accessibility text">
+    <img src="https://user-images.githubusercontent.com/57565173/140854112-67dbdcd4-c4aa-4caf-bea2-c22441e41e83.jpg" width="350" alt="accessibility text">
+    <img src="https://user-images.githubusercontent.com/57565173/140854114-cb470b47-e747-4729-8982-bf44d96b8b5d.jpg" width="350" alt="accessibility text">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
