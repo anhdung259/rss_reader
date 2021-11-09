@@ -1,4 +1,4 @@
-# rss_reader_project
+# RSS_reader_project
 
 KMS test for Mobile Developer
 
